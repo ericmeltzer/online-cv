@@ -1,5 +1,5 @@
 
-title: My Resume
+title: Eric Meltzer CV
 url: 'http://ericmeltzer.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 
@@ -13,16 +13,15 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Eric Meltzer
+tagline: Partner, INB
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: eric.meltzer@gmail.com
+phone: +1 650 223 9444
+linkedin: eric-meltzer-759896a0
+github: eric-meltzer-759896a0
+twitter: '@wheatpond'
 
 #Update all the sections by editing the files inside _includes folder.
