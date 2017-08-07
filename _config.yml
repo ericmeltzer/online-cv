@@ -20,8 +20,9 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: eric.meltzer@gmail.com
 phone: +1 650 223 9444
+website: inblockchain.com
 linkedin: eric-meltzer-759896a0
-github: eric-meltzer-759896a0
+github: eric-meltzer
 twitter: '@wheatpond'
 
 #Update all the sections by editing the files inside _includes folder.
